@@ -1,0 +1,10 @@
+USER PROFILE
+
+Name: Ahmad Ilyas
+Major: Electrical Engineering
+University: Universitas Hasanuddin
+
+Learning Goal:
+- Software Development
+- Web Development
+- Git and GitHub
