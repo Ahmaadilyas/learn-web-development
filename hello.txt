@@ -1,3 +1,4 @@
 Hello, Software Development!
 This is my first developer environment.
 I am learning Git and GitHub.
+My project is now connected to GitHub!
