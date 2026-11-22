@@ -1,5 +1,5 @@
-Hello, Software Development!
-This is my first developer environment.
+Hello from FEATURE PROFILE branch!
+This is the feature version.
 I am learning Git and GitHub.
 My project is now connected to GitHub!
 Kalimat ini saya coba lagi simpan di GitHub!
