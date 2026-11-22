@@ -1,0 +1,16 @@
+MY TECHNICAL SKILLS
+
+Programming:
+- C++
+- Python
+- JavaScript
+
+Tools:
+- Git
+- GitHub
+- Visual Studio Code
+
+Learning:
+- Web Development
+- Software Engineering
+- Internet of Things
