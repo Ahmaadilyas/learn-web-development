@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-Hello from FEATURE PROFILE branch!
-This is the feature version.
-=======
-Hello, from master branch!
-This is the main version.
->>>>>>> master
+Hello from MASTER and FEATURE PROFILE!
+
+This is the combined version.
+
 I am learning Git and GitHub.
 My project is now connected to GitHub!
 Kalimat ini saya coba lagi simpan di GitHub!
